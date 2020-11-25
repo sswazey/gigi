@@ -1,0 +1,3 @@
+10 FOR I = 1 TO 5000 
+20 PRINT "#";
+30 NEXT I
